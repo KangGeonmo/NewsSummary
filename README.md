@@ -7,7 +7,7 @@
 
 ### 실행화면
 * 1. 초기화면
-![초기화면](./NewsSummary/DOCS/image/1.start.png)
+![초기화면](./DOCS/image/1.start.png)
 * 2. 요약준비
 ![요약준비](./NewsSummary/DOCS/image/2.summary.png)
 * 3. 실행결과
